@@ -1,9 +1,9 @@
 local options = {
     ensure_installed = {
         "bash",
-        -- "c",
-        -- "cmake",
-        -- "cpp",
+        "c",
+        "cmake",
+        "cpp",
         "fish",
         -- "go",
         -- "gomod",
@@ -17,7 +17,7 @@ local options = {
         "markdown",
         -- "odin",
         "printf",
-        -- "python",
+        "python",
         "toml",
         "vim",
         "vimdoc",
